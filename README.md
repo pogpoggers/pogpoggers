@@ -1,8 +1,8 @@
 ### Hi there OwO 👋
-- 📫 How to reach me:
+### 📫 How to reach me:
 - Telegram (http://t.me/YiffUwUOwO)
 - discord (poggers#8086)
-- 🔭 Working on:
+###  🔭 Working on:
 - R* reverse engineering
 - TF2 anti-bot bot fork maintance
 <!--
