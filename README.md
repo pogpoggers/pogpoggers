@@ -1,3 +1,4 @@
+![ghBG](https://user-images.githubusercontent.com/86860344/126187670-be508bad-be2e-4d0f-8350-c19cffbfca1e.png)
 ### Hi there OwO 👋
 ### 📫 How to reach me:
 - Telegram (http://t.me/YiffUwUOwO)
@@ -6,6 +7,7 @@
 - R* reverse engineering
 - TF2 anti-bot bot fork maintance
 - R* "development"
+- Trolling 
 <!--
 **pogpoggers/pogpoggers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
