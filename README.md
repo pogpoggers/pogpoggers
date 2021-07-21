@@ -1,5 +1,5 @@
 ![ghBG](https://user-images.githubusercontent.com/86860344/126187670-be508bad-be2e-4d0f-8350-c19cffbfca1e.png)
-### Hi there OwO 👋
+### Hi there 👋
 ### 📫 How to reach me:
 - Telegram (http://t.me/YiffUwUOwO)
 - discord (poggers#8086)
